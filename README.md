@@ -13,11 +13,15 @@ The pages are,
    ```
    git clone https://github.com/bindu-1805/Stepform.git
    ```
-2. Install dependencies (if needed)
+2. Navigate to the project directory
+   ```
+   cd folder_name
+   ```
+3. Install dependencies (if needed)
    ```
    npm install
    ```
-3. Run the app
+4. Run the app
    ```
    npm start
    ```
