@@ -15,7 +15,7 @@ The pages are,
    ```
 2. Navigate to the project directory
    ```
-   cd folder_name
+   cd Stepform
    ```
 3. Install dependencies (if needed)
    ```
